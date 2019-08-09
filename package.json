@@ -1,0 +1,23 @@
+{
+  "name": "petya",
+  "version": "1.0.0",
+  "description": "Petya's CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petya-/petya.git"
+  },
+  "author": "petya-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petya-/petya/issues"
+  },
+  "homepage": "https://github.com/petya-/petya#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.5.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Education": [
+    "Present - Top-up in Software Development",
+    "2018 - Top-up in Digital Concept Development",
+    "2017 - AP Degree in Computer Science!"
+  ],
+  "Past Experience": [
+    "2016-2018: Web Developer @ Wiredelta",
+    "Present: Full Stack Developer @ Flyhjaelp "
+  ],
+  "Tech Stack": ["Node.js", "Vue.js", "Laravel", "Loopback"],
+  "Areas of expertise": [
+    "Software Design",
+    "Software Architecture",
+    "Scalable APIs",
+    "Web Services",
+    "DevOps"
+  ],
+  "Contact": ["petya.buchkova@gmail.com"],
+  "LinkedIn": ["www.linkedin.com/in/petyab"]
+
+}
