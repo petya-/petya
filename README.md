@@ -17,7 +17,7 @@
 npm install petya
 ```
 
-2. Type _petya_ in the terminal and enjou my CV
+2. Type _petya_ in the terminal and enjoy my CV
 
 ```sh
 petya
