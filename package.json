@@ -1,6 +1,6 @@
 {
   "name": "petya",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Petya's CV",
   "main": "index.js",
   "scripts": {
