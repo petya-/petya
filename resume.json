@@ -8,7 +8,18 @@
     "Present: Full Stack Developer @ Flyhjaelp ",
     "2016-2018: Web Developer @ Wiredelta"
   ],
-  "🗂  Tech Stack": ["Node.js", "Vue.js", "Laravel", "Loopback"],
+  "🗂  Tech Stack": [
+    "Node.js",
+    "Express.js",
+    "Vue.js",
+    "Laravel",
+    "Loopback",
+    "Sequelize",
+    "PostgreSQL",
+    "MariaDB",
+    "React",
+    "Angular"
+  ],
   "👩🏻‍🚀 Areas of expertise": [
     "Software Design",
     "Software Architecture",
